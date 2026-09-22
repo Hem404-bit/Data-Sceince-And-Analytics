@@ -1,0 +1,27 @@
+Test Case 1:
+Input: Priya, 85
+Expected Grade: B
+Expected Message: Very Good! Keep it up!
+
+Test Case 2:
+Input: Rahul, 95
+Expected Grade: A
+Expected Message: Excellent! Keep up the great work!
+
+Test Case 3:
+Input: Anu, 75
+Expected Grade: C
+Expected Message: Good job! You can do even better!
+
+Test Case 4:
+Input: Ravi, 65
+Expected Grade: D
+Expected Message: Nice effort! Keep working hard!
+
+Test Case 5:
+Input: Priya, -10
+Expected: Invalid marks message
+
+Test Case 6:
+Input: Priya, abc
+Expected: Invalid input message
