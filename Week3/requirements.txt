@@ -1,0 +1,3 @@
+# Requirements for Sales Data Analysis
+
+pandas==2.2.3
