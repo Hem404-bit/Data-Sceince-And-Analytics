@@ -1,0 +1,4 @@
+                                  test  statistic  p_value  significant_at_0.05
+           ANOVA: sales across regions   2.164363 0.097237                False
+Welch t-test: weekday vs weekend sales  -0.426610 0.672083                False
+      Welch t-test: East vs West sales   2.062314 0.045479                 True
