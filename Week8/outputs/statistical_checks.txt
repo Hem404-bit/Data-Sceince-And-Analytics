@@ -1,0 +1,4 @@
+Contract vs churn: chi-square=27.715, df=2, p=9.5874e-07
+PaymentMethod vs churn: chi-square=3.870, df=2, p=0.14446
+Tenure by outcome: Mann–Whitney p=1.9958e-28; medians 42.0 vs 6.0
+MonthlyCharges by outcome: Mann–Whitney p=0.018251; medians 113.0 vs 137.0

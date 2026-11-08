@@ -1,0 +1,17 @@
+{
+  "rows": {
+    "churn": 500,
+    "sales": 100,
+    "housing": 300
+  },
+  "churn_rate": 0.106,
+  "sales_total": "12365048",
+  "top_region": "North",
+  "top_product": "Laptop",
+  "median_house_price": 22365000.0,
+  "house_metrics": {
+    "MAE": 2188736.343703811,
+    "MSE": 8454330868276.591,
+    "R2": 0.9406371185112242
+  }
+}
