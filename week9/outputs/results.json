@@ -1,0 +1,31 @@
+{
+  "rows": 300,
+  "train_rows": 240,
+  "test_rows": 60,
+  "features": [
+    "Area",
+    "Bedrooms",
+    "Bathrooms",
+    "Age",
+    "Location",
+    "Property_Type"
+  ],
+  "metrics": [
+    {
+      "model": "Random Forest",
+      "MAE": 1596584.6628412085,
+      "MSE": 4693364907084.393,
+      "RMSE": 2166417.528336676,
+      "R2": 0.9670450956907457
+    },
+    {
+      "model": "Linear Regression",
+      "MAE": 2188736.3437038083,
+      "MSE": 8454330868276.759,
+      "RMSE": 2907633.2073142854,
+      "R2": 0.940637118511223
+    }
+  ],
+  "best_by_test_rmse": "Random Forest",
+  "currency": "unspecified"
+}
